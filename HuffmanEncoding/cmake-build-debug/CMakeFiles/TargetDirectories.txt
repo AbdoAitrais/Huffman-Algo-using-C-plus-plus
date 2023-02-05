@@ -1,0 +1,3 @@
+C:/Users/abdo/Desktop/ILISI/ILISI 2/S1/C++/Code/HuffmanEncoding/cmake-build-debug/CMakeFiles/HuffmanEncoding.dir
+C:/Users/abdo/Desktop/ILISI/ILISI 2/S1/C++/Code/HuffmanEncoding/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abdo/Desktop/ILISI/ILISI 2/S1/C++/Code/HuffmanEncoding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
